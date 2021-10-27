@@ -1,2 +1,2 @@
 # TestHelloWorld
-To test me 1st program
+To test the 1st python program
